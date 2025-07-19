@@ -1,0 +1,13 @@
+loops
+matchcase
+tuples, listindexing
+strings
+processingfiles
+enumeration, f-strings
+list comprehension, comments
+with files
+if conditional, dictionaries
+error handling, try except
+functions
+default parameters
+import
