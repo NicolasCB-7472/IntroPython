@@ -47,7 +47,7 @@ while salida == False:
                 source_path = ""
                 destination_path = ""
                 # This should be executed by make_archive function
-                SG.Popup("Hello, your '.zip' of files is ready! Enjoy!", title="Succes!", button_type=SG.POPUP_BUTTONS_OK)
+                SG.popup("Hello, your '.zip' of files is ready! Enjoy!", title="Success!", button_type=SG.POPUP_BUTTONS_OK)
             else:
                 print("Nothing to compress")
         case "Cancel":
