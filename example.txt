@@ -1,9 +1,4 @@
-mytodo01-02
-mytodo03
-asdasd
-todo27
-mytodotodo!
-todox3
-todox4x4
-mytodo98
-mytodo99
+PythonCourse
+PythonCourseChapter18
+PythonCourseChapter19
+PythonCourseChapter20

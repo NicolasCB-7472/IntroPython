@@ -12,6 +12,7 @@ convert_button = SG.Button("Convert")
 feet_layout = [feet_label, SG.Push(), feet_input]
 inches_layout = [inches_label, SG.Push(), inches_input]
 button_layout = [convert_button, SG.Push()]
+# SG.column exists
 
 layout = [[feet_layout], [inches_layout], [button_layout]]
 
